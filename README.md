@@ -3,7 +3,7 @@ Pomodoro timer to increase your productivity
 
 <h1>How to run?</h1>
 Clone it to your local machine or fork it on your replit from the link below-
-<a href="">Link to replit</a>
+<a href="https://replit.com/@Sheikh-TahaTaha/Pomodoro?v=1">Link to replit</a>
 
 <h1>Some screenshots of the program: </h1>
 ![Screenshot (255)](https://github.com/Taha0229/Pomodoro/assets/113607983/1d583963-c76a-4fb4-8609-83105f3a314b)
